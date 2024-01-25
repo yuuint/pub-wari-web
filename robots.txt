@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wari.ynetlabo.net/sitemap.xml
